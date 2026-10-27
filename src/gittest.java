@@ -7,5 +7,6 @@ public class gittest {
         System.out.println("master test");
         System.out.println("hot-fix commit!");
         System.out.println("push commit");
+        System.out.println("pull commit");
     }
 }
